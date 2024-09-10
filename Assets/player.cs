@@ -1,4 +1,4 @@
-using System.Collections;
+/* using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,6 +6,7 @@ public class Player : Actor
 {
     public string move()
     {
-        return "ÇÃ·¹ÀÌ¾î´Â ¿òÁ÷ÀÔ´Ï´Ù.";
+        return "ï¿½Ã·ï¿½ï¿½Ì¾ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½.";
     }
 }
+ */

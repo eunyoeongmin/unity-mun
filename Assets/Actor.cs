@@ -1,4 +1,4 @@
-
+/* 
 public class Actor {
     public int id;
     public string name;
@@ -9,7 +9,7 @@ public class Actor {
 
     public string Talk()
     {
-        return "´ëÈ­¸¦ °É¾ú½À´Ï´Ù.";
+        return "ï¿½ï¿½È­ï¿½ï¿½ ï¿½É¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½.";
     }
 
     public string HasWeapon()
@@ -21,4 +21,4 @@ public class Actor {
     {
         level = level + 1;
     }
-}
+} */
