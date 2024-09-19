@@ -12,8 +12,8 @@ public class LifrCycle2 : MonoBehaviour
 
      void Update() {
         Vector3 vec = new Vector3(
-            Input.GetAxisRaw("Horizontal"),
-            Input.GetAxisRaw("Vertical")
+            Input.GetAxisRaw("Horizontal") * Time.deltaTime,
+            Input.GetAxisRaw("Vertical") * Time.deltaTime
             ,0); // 벡터 값 = 방향 값 
         transform.Translate(vec);
     }
